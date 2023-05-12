@@ -22,7 +22,7 @@ public class AppBuild extends WebProject {
 
         repositories = List.of(MAVEN_CENTRAL, RIFE2_RELEASES);
         scope(compile)
-            .include(dependency("com.uwyn.rife2", "rife2", version(1,6,3)));
+            .include(dependency("com.uwyn.rife2", "rife2", version(1,7,0)));
         scope(test)
             .include(dependency("org.jsoup", "jsoup", version(1,16,1)))
             .include(dependency("org.junit.jupiter", "junit-jupiter", version(5,9,3)))
