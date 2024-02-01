@@ -28,7 +28,7 @@ public class AppBuild extends WebProject {
             .include(dependency("org.junit.jupiter", "junit-jupiter", version(5,10,1)))
             .include(dependency("org.junit.platform", "junit-platform-console-standalone", version(1,10,1)));
         scope(standalone)
-            .include(dependency("org.eclipse.jetty", "jetty-server", version(12,0,6))
+            .include(dependency("org.eclipse.jetty", "jetty-server", version(12,0,6)))
             .include(dependency("org.eclipse.jetty", "jetty-servlet", version(11,0,20)))
             .include(dependency("org.slf4j", "slf4j-simple", version(2,0,11)));
 
