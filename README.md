@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Java](https://img.shields.io/badge/java-17%2B-blue)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-[![bld](https://img.shields.io/badge/1.8.0-FA9052?label=bld&labelColor=2392FF)](https://rife2.com/bld)
+[![bld](https://img.shields.io/badge/1.9.0-FA9052?label=bld&labelColor=2392FF)](https://rife2.com/bld)
 [![GitHub CI](https://github.com/rife2/rife2-bld-hello/actions/workflows/bld.yml/badge.svg)](https://github.com/rife2/rife2-bld-hello/actions/workflows/bld.yml)
 
 # RIFE2 bootstrap project structure
